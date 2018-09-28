@@ -22,5 +22,5 @@
   "dependencies": {
     "ctx-polyfill": "lifaon74/ctx-polyfill"
   },
-  "repository": "https://github.com/iddan/react-native-canvas"
+  "repository": "https://github.com/nasir6/react-native-canvas"
 }
